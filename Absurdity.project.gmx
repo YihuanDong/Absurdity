@@ -48,6 +48,7 @@
       <sprite>sprites\spr_items</sprite>
       <sprite>sprites\spr_back</sprite>
       <sprite>sprites\spr_check</sprite>
+      <sprite>sprites\key</sprite>
     </sprites>
     <sprites name="Rule Interface">
       <sprite>sprites\step_1</sprite>
@@ -114,6 +115,7 @@
       </objects>
       <object>objects\obj_CheckButton</object>
       <object>objects\obj_Chances</object>
+      <object>objects\obj_key</object>
     </objects>
     <objects name="Rule Interface">
       <object>objects\obj_step_1</object>
